@@ -35,7 +35,7 @@ int main (int argc, char *argv[]) {
     
     //Ciclo for
         for (int i=inicio; i<=final; i+=incremento) {
-            printf("%d", i);    
+            printf("%d ", i);    
         }
 
     return 0;
